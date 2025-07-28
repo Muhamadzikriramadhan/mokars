@@ -35,6 +35,6 @@ Edit
 4. Jalankan aplikasi menggunakan `flutter run`.
 
 ## 👤 Kontributor
-- [Nama kamu di sini]
+- [@muhamadzikriramadhan](https://github.com/muhamadzikriramadhan)
 
 ---
