@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898952786530",
+    "project_id": "mokars",
+    "storage_bucket": "mokars.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898952786530:android:66afd94353cd4a6c08d73b",
+        "android_client_info": {
+          "package_name": "id.co.androdevjik.mokars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDckJjrm8Quka-1JJL6ENTHTvu_rDJb43Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
